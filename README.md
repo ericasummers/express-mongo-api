@@ -6,7 +6,7 @@
 
 ## Description
 
-_This web page uses Node.js as well as MongoDB and Express to set up and interact with a Mongo database._
+_This web page uses Node.js as well as MongoDB and Express to set up and interact with a Mongo database. This is a single-page app that uses a simple mongoDB with one collection to display a list of users. It uses javascript, AJAX, and RESTful APIs to add and delete users without refreshing the page._
 
 ## Setup/Installation Requirements
 
