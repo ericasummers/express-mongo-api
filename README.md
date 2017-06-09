@@ -40,9 +40,7 @@ _Please contact ericaw21@gmail.com with concerns or comments._
 * _jQuery_
 * _Node_
 * _CSS_
-* _Vue.JS_
 * _HTML_
-* _Mongoose_
 * _MongoDB_
 * _Jade_
 * _Express_
