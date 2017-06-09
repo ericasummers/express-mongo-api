@@ -11,9 +11,9 @@ _This web page uses Node.js as well as MongoDB and Express to set up and interac
 ## Setup/Installation Requirements
 
 * Run `npm install` to install all dependencies as listed in the package.json and file for project.
-* Navigate into the project directory, and into the mongodb folder, and then into the bin folder. Inside this folder in the terminal, type: 
+* Navigate into the project directory, and into the mongodb folder, and then into the bin folder. Inside this folder in the terminal, type appropriate file path to project: 
 ```
-./mongod --dbpath ~/desktop/nodetest1/data/db
+./mongod --dbpath ~/desktop/restful-node/data/db
 ```
 * In a new terminal window (if using MAC OSX), navigate to the same bin folder, and type the following:
 ```
